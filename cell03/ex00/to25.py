@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 i = int(input("Enter a number less than 25 : "))
 if i > 25:
     print("Error")

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 password = "Python is awesome"
 psw = input("Enter password here : ")
 if psw == password:

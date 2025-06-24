@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num = float(input("Enter a number here :"))
 if num < 0:
     print("This number is negative.")
