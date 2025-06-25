@@ -1,4 +1,4 @@
-#!/usr/biin/env python3
+#!/usr/bin/env python3
 y_age = int(input("Please tell me your age: "))
 if y_age <= 1:
     print(f'You are currently {y_age} year old')
