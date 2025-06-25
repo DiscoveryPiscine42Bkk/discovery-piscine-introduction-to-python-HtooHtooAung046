@@ -10,4 +10,4 @@ else:
     if matches:
         print(len(matches))
     else:
-        print()
+        print
