@@ -1,4 +1,4 @@
-#!/usr/bin/nev python3
+#!/usr/bin/env python3
 import math
 number = float(input("Give me a number: "))
 number = math.ceil(number)
