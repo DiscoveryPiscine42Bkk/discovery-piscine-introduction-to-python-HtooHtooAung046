@@ -6,7 +6,7 @@ add = f_num + s_num
 sub = f_num - s_num
 div = f_num / s_num
 mul = f_num * s_num
-print(f_num , "=", s_num ," = ",add)
-print(f_num , "=", s_num ," = ",sub)
-print(f_num , "=", s_num ," = ",int(div))
-print(f_num , "=", s_num ," = ",mul)
+print(f_num , "+", s_num ," = ",add)
+print(f_num , "-", s_num ," = ",sub)
+print(f_num , "/", s_num ," = ",int(div))
+print(f_num , "*", s_num ," = ",mul)
