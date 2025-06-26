@@ -2,4 +2,3 @@
 def hello ():
     print("Hello, everyone!")
 hello()
-print("testing")
