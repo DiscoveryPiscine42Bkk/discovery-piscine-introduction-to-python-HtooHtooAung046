@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
+#Test Case
 from checkmate import checkmate
 board = [
-        [".", "R", ".", "."],
+        ["R", ".", ".", "."],
         [".", "K", ".", "."],
-        [".", ".", ".", "."],
+        [".", ".", "P", "."],
         [".", ".", ".", "."]
 ]
 checkmate(board)
